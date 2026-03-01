@@ -1,7 +1,6 @@
 # Hey there, I'm Foxxity
 
 
-
 > *i code.*
 
 I'm a developer with a passion for cloud infrastructure and automation. I love building tools that make technical workflows simpler and more accessible.
@@ -41,5 +40,7 @@ A clean, simple tool for spinning up a browser-accessible terminal in a Docker c
 ---
 
 <p align="center">
-  <i>Building from the cloud, one container at a time ☁️</i>
+  <i>Building from the cloud, one container at a time ☁️
+  ~ guns.lol/foxxity
+  </i>
 </p>
