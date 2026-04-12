@@ -3,16 +3,16 @@
 
 > *i code.*
 
-I'm a developer with a passion for cloud infrastructure and automation. I love building tools that make technical workflows simpler and more accessible.
+I'm a developer with a passion for cloud infrastructure and 🏴‍☠️. I love building tools that fix things and make things simpler.
 
 ---
 
 ## About Me
 
-- ☁️ Cloud-focused developer
-- 🛠️ I enjoy containerization and making things "just work"
-- 🐳 Docker enthusiast
-- 📅 Coding since early 2019
+- Cloud-focused developer
+- I enjoy containerization and making things "just work"
+- Docker enthusiast
+- Coding since early 2019
 
 ---
 
@@ -32,7 +32,7 @@ I'm a developer with a passion for cloud infrastructure and automation. I love b
 
 ## 📌 Featured Project
 
-### 🖥️ [Docker-TTYD-Installer](https://github.com/floxxy-cpu/Docker-TTYD-Installer)
+### [Docker-TTYD-Installer](https://github.com/floxxy-cpu/Docker-TTYD-Installer)
 > Downloads and sets up a **ttyd web terminal** via Dockerfile — quickly and easily.
 
 A clean, simple tool for spinning up a browser-accessible terminal in a Docker container. Perfect for remote access and cloud environments.
@@ -41,6 +41,5 @@ A clean, simple tool for spinning up a browser-accessible terminal in a Docker c
 
 <p align="center">
   <i>Building from the cloud, one container at a time ☁️
-  ~ guns.lol/foxxity
   </i>
 </p>
