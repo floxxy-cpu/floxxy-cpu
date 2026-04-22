@@ -30,12 +30,12 @@ I'm a developer with a passion for cloud infrastructure and 🏴‍☠️. I lov
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Project (W.I.P)
 
-### [Docker-TTYD-Installer](https://github.com/floxxy-cpu/Docker-TTYD-Installer)
-> Downloads and sets up a **ttyd web terminal** via Dockerfile — quickly and easily.
+### [CipherNest](https://github.com/floxxy-cpu/CipherNest)
+> A local file hosting server designed for ultimate privacy and encryption to even stop attacks that happen from local files or viruses.
 
-A clean, simple tool for spinning up a browser-accessible terminal in a Docker container. Perfect for remote access and cloud environments.
+A simple localhost server that runs on your machine and secures files with enterprise-grade encryption and quick decryption while still keeping all your files safe. *Currently a work in progress.* 
 
 ---
 
